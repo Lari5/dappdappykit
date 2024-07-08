@@ -1,19 +1,74 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous historical figures.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who discovered gravity?",
+      "answers": ["Newton", "Tesla", "Edison"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who was the first US president?",
+      "answers": ["Washington", "Lincoln", "Jefferson"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who led India to independence?",
+      "answers": ["Gandhi", "Nehru", "Patel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first emperor of Rome?",
+      "answers": ["Augustus", "Caesar", "Nero"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": ["Da Vinci", "Van Gogh", "Picasso"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was known as the Iron Lady?",
+      "answers": ["Thatcher", "Merkel", "Gandhi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "answers": ["Shakes", "Homer", "Chaucer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the first man on the moon?",
+      "answers": ["Armstrong", "Aldrin", "Collins"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": ["Einstein", "Newton", "Bohr"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the queen of Ancient Egypt?",
+      "answers": ["Cleopatra", "Nefertiti", "Hatshepsut"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Father of Computers?",
+      "answers": ["Babbage", "Turing", "Jobs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who led the civil rights movement?",
+      "answers": ["King", "X", "Parks"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was the founder of Microsoft?",
+      "answers": ["Gates", "Jobs", "Wozniak"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who crossed the Rubicon?",
+      "answers": ["Caesar", "Pompey", "Crassus"],
       "correctAnswerIndex": 0
     }
   ]
